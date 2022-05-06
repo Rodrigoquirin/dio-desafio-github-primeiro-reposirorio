@@ -1,0 +1,5 @@
+git clone ( coipar do repositorio do git hub)
+git status( saber o que ja tem)
+git add . (add todos arquivos) local (git)
+git commit -m "inclusao...)
+o -m é para colocar mensagem
